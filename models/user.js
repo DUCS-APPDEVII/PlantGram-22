@@ -1,3 +1,8 @@
+// user.js
+// Author S. Sigman   Date: 11/29/2021
+// Defines a MongoDB-Mongoose model for 
+// application users.
+
 var db = require("../db");
 
 var User = db.model("User", {
