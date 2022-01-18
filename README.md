@@ -19,7 +19,7 @@ PlantGram is an application that allows a community of users to collaboratively 
 Clubs are created by one user who is known as the Club Facilitator.  The Club Facilitator creates the club by uploading club information, including a club logo and any rules that govern the behavior of club members.  In addition, they are responsible for inviting members to join the club and for moderating the posts of users.  
 
 ### Use Case Description of PlantGram
-![PlantGram Use Case Description](public/images/README/plantgram_initial_use_case.png)
+![PlantGram Use Case Description](README/plantgram_initial_use_case.png)
 
 ### PlantGram User Stories
 **Post Plant Discovery**: As a *Plant Fanatic* I want to post information on an interesting plant  so that my discovery can be shared with other club members.
